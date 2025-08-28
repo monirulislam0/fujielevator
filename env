@@ -1,0 +1,27 @@
+## Put the Variable Heere
+## what you want to available everywhere
+## just call getenv(variable);
+## example: getenv(DEV_URL);
+
+APP_NAME=Hayashimu
+DEV_INFO=Md Moniurl Islam Taluqdar
+DEV_URL=facebook.com/monirulTaluqdar
+SITE_URL=https://www.fujielevatorjapan.com/
+
+## Database Connection
+
+DRIVER=mysql
+USER=
+PASSWORD=
+HOST=localhost
+DATABASE=
+PORT=3306
+
+//STMP (Simple Mail Transfer Protocol) Configuration
+
+SMTP_SERVER=
+SMTP_PORT=
+SMTP_USERNAME=
+SMTP_PASSWORD=
+SMTP_SOCKET=
+
