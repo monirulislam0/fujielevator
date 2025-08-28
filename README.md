@@ -35,7 +35,7 @@ This project was developed for a client selling elevator products under the Fuji
 
 - **Email:** mdmonirul.islam.bd2003@gmail.com  
 - **Fiverr:** [https://www.fiverr.com/monirul_islam_0](https://www.fiverr.com/monirul_islam_0)
-- **Facebook:** [https://www.fiverr.com/monirul_islam_0]](https://www.facebook.com/monirultaluqdar)
+- **Facebook:** [https://www.facebook.com/monirultaluqdar](https://www.facebook.com/monirultaluqdar)
 
 ---
 
@@ -68,7 +68,7 @@ Thank You for having Patiece . Feel Free to have a free consultation
 
 - **Email:** mdmonirul.islam.bd2003@gmail.com  
 - **Fiverr:** [https://www.fiverr.com/monirul_islam_0](https://www.fiverr.com/monirul_islam_0)
-- **Facebook:** [https://www.fiverr.com/monirul_islam_0]](https://www.facebook.com/monirultaluqdar)
+- **Facebook:** [https://www.facebook.com/monirultaluqdar](https://www.facebook.com/monirultaluqdar)
 
 ---
 
